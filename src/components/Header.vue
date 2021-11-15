@@ -1,0 +1,5 @@
+<template>
+  <header>
+    <img src="@/assets/logo.png" alt="logo" />
+  </header>
+</template>

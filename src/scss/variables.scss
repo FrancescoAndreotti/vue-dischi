@@ -1,0 +1,26 @@
+$colore-card: #2b3a46;
+$colore-body: #142531;
+
+
+
+.row.row-cols-5.g-4{
+  padding: 50px;
+  background-color: $colore-body;
+}
+
+.card.my-card{
+  height: 380px;
+  border: none;
+  background-color: $colore-card;
+}
+
+
+header{
+  background-color: $colore-card;
+  height: 75px;
+
+  img{
+    width: 50px;
+  }
+
+}
