@@ -9,9 +9,13 @@ $colore-body: #142531;
 }
 
 .card.my-card{
-  height: 380px;
+  height: 350px;
   border: none;
   background-color: $colore-card;
+  
+  img{
+    max-height: 200px;
+  }
 }
 
 
